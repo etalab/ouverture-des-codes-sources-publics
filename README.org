@@ -1,0 +1,69 @@
+#+title: Open data logiciels : les niveaux d'ouverture
+
+Ce document sert de guide pour l'ouverture des logiciels libres des
+organismes publics, dans le cadre de la mise en oeuvre de la loi pour
+une République numérique du 7 octobre 2016.
+
+Il délimite la problématique abordée, décrit les niveaux d'ouverture
+et rappelle le contexte juridique.
+
+* Délimitation de la problématique
+
+Ce document porte seulement sur la question de l'ouverture des codes
+sources.
+
+Il ne détaille pas les *bonnes pratiques* d'un projet libre, que ce soit
+sur le plan des pratiques techniques ou de la communication au sein et
+autour des projets.  Des éléments de ces bonnes pratiques peuvent être
+trouvés dans la [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][Politique de contribution de l'État aux logiciels
+libres]].
+
+Il ne porte pas sur la question de la *transparence algorithmique* : la
+possibilité pour un citoyen de demander des comptes sur les décisions
+individuelles le concernant et mobilisant un traitement algorithmique
+ne préjuge pas de l'existence de ce traitement sous forme de logiciel
+ni de la communicabilité du logiciel, si celui-ci existe.
+
+* La communicabilité des codes sources
+
+Toute entité chargée d'une mission de service public doit publier tout
+document produit ou reçu dans le cadre de cette mission, quelle qu'en
+soit la date, le lieu de conservation et le support.  Les codes
+sources, en tant que documents administratifs, relèvent de cette
+obligation (voir l'avis CADA du 8 janvier 2015 n°[[http://cada.data.gouv.fr/20144578/][20144578]]).
+
+Pour qu'un code source soit communicable :
+
+- il doit être achevé : dès lors qu'une version du code est utilisée
+  en production, cette version est considérée comme achevée.
+
+- sa communication ne doit pas porter atteinte :
+  - au secret commercial et industriel ;
+  - à la sûreté de l'État, à la sécurité publique, à la sécurité des
+    personnes ou à la sûreté des systèmes d'information des
+    administrations ;
+  - à la recherche et à la prévention, par les services compétences,
+    d'infractions de toute nature.
+
+- l'obligation de commercabilité porte sur les collectivités de plus
+  de 3500 habitants et les organismes publics de plus de 50 agents.
+
+En dehors de ces limites, toute personne ou toute administration peut
+demander la communication d'un code source.
+
+La liste des licences sous lesquelles un code source peut être placé
+au moment de sa diffusion est [[https://www.data.gouv.fr/fr/licences][accessible ici]].
+
+* Les niveaux d'ouverture
+
+- Niveau A - *contributif* :: le code source est publié, les
+     contributions extérieures sont activement recherchées et
+     traitées.
+
+- Niveau B - *ouvert* :: le code source est publié, les contributions
+     extérieures sont traitées mais non activement recherchées.
+
+- Niveau C - *publié* :: le code source est publié mais les
+     contributions extérieures ne sont pas traitées.
+
+- Niveau D - *fermé* :: le code source n'est pas publié.
