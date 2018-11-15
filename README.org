@@ -25,8 +25,14 @@ individuelles le concernant et mobilisant un traitement algorithmique
 ne préjuge pas de l'existence de ce traitement sous forme de logiciel
 ni de la communicabilité du logiciel, si celui-ci existe.
 
-Sa finalité est d'aider* les organismes publics à prioriser les codes
-sources* pouvant être communiqués afin de construire une stratégie
+Ce n'est pas un guide pour la gouvernance des logiciels libres : ce
+sujet est un sujet à part entière.  Nous distinguons la maintenance /a
+minima/ (niveau B 📗) et la recherche active de contributeurs (niveau A
+📘) mais ces aspects ne couvrent qu'une petite partie de la question
+de la gouvernance.
+
+*Sa finalité* est d'aider les organismes publics à prioriser les codes
+sources pouvant être communiqués afin de construire une stratégie
 proactive d'ouverture logicielle.
 
 * La communicabilité des codes sources
