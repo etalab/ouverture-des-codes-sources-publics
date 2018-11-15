@@ -59,17 +59,17 @@ au moment de sa diffusion est [[https://www.data.gouv.fr/fr/licences][accessible
 
 * Les niveaux d'ouverture
 
-- 📘 Niveau A - *contributif* :: le code source est publié, les
+- 📘 Niveau A - *contributif* :: Le code source est publié, les
      contributions extérieures sont activement recherchées et
      traitées.
 
-- 📗 Niveau B - *ouvert* :: le code source est publié, les contributions
+- 📗 Niveau B - *ouvert* :: Le code source est publié, les contributions
      extérieures sont traitées mais non activement recherchées.
 
-- 📙 Niveau C - *publié* :: le code source est publié mais les
+- 📙 Niveau C - *publié* :: Le code source est publié mais les
      contributions extérieures ne sont pas traitées.
 
-- 📕 Niveau D - *fermé* :: le code source n'est pas publié.
+- 📕 Niveau D - *fermé* :: Le code source n'est pas publié.
 
 * Maintenance et contributions
 
