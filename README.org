@@ -4,10 +4,11 @@ Ce document sert de guide pour l'ouverture des logiciels libres des
 organismes publics, dans le cadre de la mise en oeuvre de la loi pour
 une République numérique du 7 octobre 2016.
 
-Il délimite la problématique abordée, décrit les niveaux d'ouverture
-et rappelle le contexte juridique.
+Nous commençons par délimiter la finalité de ce guide puis rappelons
+le contexte juridique pour l'ouverture des codes sources de
+l'administration avant de décrire les niveaux d'ouverture.
 
-* Délimitation de la problématique
+* Finalité de ce document
 
 Ce document porte seulement sur la question de l'ouverture des codes
 sources.
@@ -24,6 +25,10 @@ individuelles le concernant et mobilisant un traitement algorithmique
 ne préjuge pas de l'existence de ce traitement sous forme de logiciel
 ni de la communicabilité du logiciel, si celui-ci existe.
 
+Sa finalité est d'aider* les organismes publics à prioriser les codes
+sources* pouvant être communiqués afin de construire une stratégie
+proactive d'ouverture logicielle.
+
 * La communicabilité des codes sources
 
 Toute entité chargée d'une mission de service public doit publier tout
@@ -36,7 +41,6 @@ Pour qu'un code source soit communicable :
 
 - il doit être achevé : dès lors qu'une version du code est utilisée
   en production, cette version est considérée comme achevée.
-
 - sa communication ne doit pas porter atteinte :
   - au secret commercial et industriel ;
   - à la sûreté de l'État, à la sécurité publique, à la sécurité des
@@ -44,7 +48,6 @@ Pour qu'un code source soit communicable :
     administrations ;
   - à la recherche et à la prévention, par les services compétences,
     d'infractions de toute nature.
-
 - l'obligation de commercabilité porte sur les collectivités de plus
   de 3500 habitants et les organismes publics de plus de 50 agents.
 
@@ -56,14 +59,33 @@ au moment de sa diffusion est [[https://www.data.gouv.fr/fr/licences][accessible
 
 * Les niveaux d'ouverture
 
-- Niveau A - *contributif* :: le code source est publié, les
+- 📘 Niveau A - *contributif* :: le code source est publié, les
      contributions extérieures sont activement recherchées et
      traitées.
 
-- Niveau B - *ouvert* :: le code source est publié, les contributions
+- 📗 Niveau B - *ouvert* :: le code source est publié, les contributions
      extérieures sont traitées mais non activement recherchées.
 
-- Niveau C - *publié* :: le code source est publié mais les
+- 📙 Niveau C - *publié* :: le code source est publié mais les
      contributions extérieures ne sont pas traitées.
 
-- Niveau D - *fermé* :: le code source n'est pas publié.
+- 📕 Niveau D - *fermé* :: le code source n'est pas publié.
+
+* Maintenance et contributions
+
+Ce document est maintenu par Bastien Guerry à Etalab.
+
+Vous pouvez contribuer en proposant une /pull request/ ou en [[https://github.com/etalab/opendata-logiciels/issues/new][ouvrant une
+issue]].
+
+* Licence
+
+© 2018 Direction interministérielle du numérique et du système
+d'information et de communication de l'État
+
+© 2018 Les contributeurs accessibles via l'historique du dépôt.
+
+Les contenus accessibles dans ce dépôt sont placés sous Licence
+Ouverte 2.0 -- voir le fichier =LO.md= dans ce répertoire.  Vous êtes
+libre de réutiliser les contenus de ce dépôt sous les conditions
+précisées dans cette licence.
