@@ -8,6 +8,9 @@ Nous commençons par délimiter la finalité de ce guide puis rappelons
 le contexte juridique pour l'ouverture des codes sources de
 l'administration avant de décrire les niveaux d'ouverture.
 
+Pour toute question relative à l'ouverture des codes sources dans
+votre administration, n'hésitez pas à écrire à =opensource@data.gouv.fr=
+
 * Finalité de ce document
 
 Ce document porte seulement sur la question de l'ouverture des codes
@@ -83,6 +86,9 @@ Ce document est maintenu par Bastien Guerry à Etalab.
 
 Vous pouvez contribuer en proposant une /pull request/ ou en [[https://github.com/etalab/opendata-logiciels/issues/new][ouvrant une
 issue]].
+
+Pour toute question relative à l'ouverture des codes sources dans
+votre administration, n'hésitez pas à écrire à =opensource@data.gouv.fr=
 
 * Licence
 
