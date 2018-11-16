@@ -55,7 +55,7 @@ Pour qu'un code source soit communicable :
   - à la sûreté de l'État, à la sécurité publique, à la sécurité des
     personnes ou à la sûreté des systèmes d'information des
     administrations ;
-  - à la recherche et à la prévention, par les services compétences,
+  - à la recherche et à la prévention, par les services compétents,
     d'infractions de toute nature.
 - l'obligation de commercabilité porte sur les collectivités de plus
   de 3500 habitants et les organismes publics de plus de 50 agents.
