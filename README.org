@@ -1,4 +1,4 @@
-#+title: Open data logiciels : les niveaux d'ouverture
+#+title: Open data logiciels : les niveaux d'ouverture
 
 Ce document sert de guide pour l'ouverture des logiciels libres des
 organismes publics, dans le cadre de la mise en oeuvre de la loi pour
@@ -9,7 +9,7 @@ le contexte juridique pour l'ouverture des codes sources de
 l'administration avant de décrire les niveaux d'ouverture.
 
 Pour toute question relative à l'ouverture des codes sources dans
-votre administration, n'hésitez pas à écrire à =opensource@data.gouv.fr=
+votre administration, n'hésitez pas à écrire à =opensource@data.gouv.fr=.
 
 * Finalité de ce document
 
@@ -22,17 +22,17 @@ autour des projets.  Des éléments de ces bonnes pratiques peuvent être
 trouvés dans la [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][Politique de contribution de l'État aux logiciels
 libres]].
 
-Il ne porte pas sur la question de la *transparence algorithmique* : la
+Il ne porte pas sur la question de la *transparence algorithmique* : la
 possibilité pour un citoyen de demander des comptes sur les décisions
 individuelles le concernant et mobilisant un traitement algorithmique
 ne préjuge pas de l'existence de ce traitement sous forme de logiciel
 ni de la communicabilité du logiciel, si celui-ci existe.
 
-Ce n'est pas un guide pour la gouvernance des logiciels libres : ce
-sujet est un sujet à part entière.  Nous distinguons la maintenance /a
-minima/ (niveau B 📗) et la recherche active de contributeurs (niveau A
-📘) mais ces aspects ne couvrent qu'une petite partie de la question
-de la gouvernance.
+Ce n'est pas un guide pour la *gouvernance des projets de logiciels
+libres* : ce sujet est un sujet à part entière.  Nous distinguons la
+maintenance /a minima/ (niveau B 📗) et la recherche active de
+contributeurs (niveau A 📘) mais ces aspects ne couvrent qu'une petite
+partie de la question de la gouvernance.
 
 *Sa finalité* est d'aider les organismes publics à prioriser les codes
 sources pouvant être communiqués afin de construire une stratégie
@@ -46,11 +46,11 @@ soit la date, le lieu de conservation et le support.  Les codes
 sources, en tant que documents administratifs, relèvent de cette
 obligation (voir l'avis CADA du 8 janvier 2015 n°[[http://cada.data.gouv.fr/20144578/][20144578]]).
 
-Pour qu'un code source soit communicable :
+Pour qu'un code source soit communicable :
 
-- il doit être achevé : dès lors qu'une version du code est utilisée
+- il doit être achevé : dès lors qu'une version du code est utilisée
   en production, cette version est considérée comme achevée.
-- sa communication ne doit pas porter atteinte :
+- sa communication ne doit pas porter atteinte :
   - au secret commercial et industriel ;
   - à la sûreté de l'État, à la sécurité publique, à la sécurité des
     personnes ou à la sûreté des systèmes d'information des
@@ -69,14 +69,13 @@ au moment de sa diffusion est [[https://www.data.gouv.fr/fr/licences][accessible
 * Les niveaux d'ouverture
 
 - 📘 Niveau A - *contributif* :: Le code source est publié, les
-     contributions extérieures sont activement recherchées et
-     traitées.
+  contributions extérieures sont activement recherchées et traitées.
 
 - 📗 Niveau B - *ouvert* :: Le code source est publié, les contributions
-     extérieures sont traitées mais non activement recherchées.
+  extérieures sont traitées mais non activement recherchées.
 
 - 📙 Niveau C - *publié* :: Le code source est publié mais les
-     contributions extérieures ne sont pas traitées.
+  contributions extérieures ne sont pas traitées.
 
 - 📕 Niveau D - *fermé* :: Le code source n'est pas publié.
 
