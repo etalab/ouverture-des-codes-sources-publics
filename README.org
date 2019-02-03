@@ -92,12 +92,12 @@ votre administration, n'hésitez pas à écrire à =opensource@data.gouv.fr=
 
 * Licence
 
-© 2018 Direction interministérielle du numérique et du système
-d'information et de communication de l'État
+2018-2019 Direction interministérielle du numérique et du système
+d'information et de communication de l'État.
 
-© 2018 Les contributeurs accessibles via l'historique du dépôt.
+2018-2019 Les contributeurs accessibles via l'historique du dépôt.
 
-Les contenus accessibles dans ce dépôt sont placés sous Licence
-Ouverte 2.0 -- voir le fichier =LO.md= dans ce répertoire.  Vous êtes
-libre de réutiliser les contenus de ce dépôt sous les conditions
-précisées dans cette licence.
+Les contenus accessibles dans ce dépôt sont placés sous
+[[file:LO.md][Licence Ouverte 2.0]].  Vous êtes libre de réutiliser
+les contenus de ce dépôt sous les conditions précisées dans cette
+licence.
