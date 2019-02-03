@@ -1,72 +1,39 @@
-#+title: Open data logiciels : les niveaux d'ouverture
+#+title: Open data logiciels : guide sur l'ouverture
 
-Ce document sert de guide pour l'ouverture des logiciels libres des
-organismes publics, dans le cadre de la mise en oeuvre de la loi pour
-une République numérique du 7 octobre 2016.
+* À qui s'adresse ce guide ?
 
-Nous commençons par délimiter la finalité de ce guide puis rappelons
-le contexte juridique pour l'ouverture des codes sources de
-l'administration avant de décrire les niveaux d'ouverture.
+Ce guide s'adresse aux organismes publics, et plus particulièrement
+aux personnes chargés de l'ouverture des codes sources logiciels dans
+ces organismes.
 
-Pour toute question relative à l'ouverture des codes sources dans
-votre administration, n'hésitez pas à écrire à =opensource@data.gouv.fr=.
+* À quoi sert-il ?
 
-* Finalité de ce document
+Ce guide sert à aider les organismes publics à définir une politique
+d'ouverture des logiciels libres qu'ils produisent, dans le cadre de
+la mise en oeuvre de la loi pour une République numérique du 7
+octobre 2016.
 
-Ce document porte seulement sur la question de l'ouverture des codes
-sources.
+Il vient en complément de la Politique de contribution aux logiciels
+libres de l’État, [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][publiée]] en mai 2018, laquelle est doublement
+limitée: (1) elle ne s'adresse pas aux collectivités territoriales ;
+(2) elle acte le principe selon lequel les agents publics peuvent
+publier du code source et contribuer à des logiciels libres, mais elle
+n'aide pas les organismes publics à répondre à la question « Quels
+logiciels ouvrir en priorité ? »
 
-Il ne détaille pas les *bonnes pratiques* d'un projet libre, que ce soit
-sur le plan des pratiques techniques ou de la communication au sein et
-autour des projets.  Des éléments de ces bonnes pratiques peuvent être
-trouvés dans la [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][Politique de contribution de l'État aux logiciels
-libres]].
+*Ce guide a pour vocation de répondre à la question : « Quels logiciels ouvrir en priorité ? »*
 
-Il ne porte pas sur la question de la *transparence algorithmique* : la
-possibilité pour un citoyen de demander des comptes sur les décisions
-individuelles le concernant et mobilisant un traitement algorithmique
-ne préjuge pas de l'existence de ce traitement sous forme de logiciel
-ni de la communicabilité du logiciel, si celui-ci existe.
+* Prérequis et compléments
 
-Ce n'est pas un guide pour la *gouvernance des projets de logiciels
-libres* : ce sujet est un sujet à part entière.  Nous distinguons la
-maintenance /a minima/ (niveau B 📗) et la recherche active de
-contributeurs (niveau A 📘) mais ces aspects ne couvrent qu'une petite
-partie de la question de la gouvernance.
+Ce guide suppose que vous avez bien compris ce que [[file:hors-scope.org][ce document n'est
+pas]], que vous avez pris connaissance de la [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][politique de contribution
+aux logiciels libres de l’État]] et du [[cadre-juridique.org][cadre juridique]] dans lequel
+s'applique la communicabilité des codes sources logiciels produits par
+des organismes publics.
 
-*Sa finalité* est d'aider les organismes publics à prioriser les codes
-sources pouvant être communiqués afin de construire une stratégie
-proactive d'ouverture logicielle.
+* Quels degrés d'ouverture pour les codes sources ?
 
-* La communicabilité des codes sources
-
-Toute entité chargée d'une mission de service public doit publier tout
-document produit ou reçu dans le cadre de cette mission, quelle qu'en
-soit la date, le lieu de conservation et le support.  Les codes
-sources, en tant que documents administratifs, relèvent de cette
-obligation (voir l'avis CADA du 8 janvier 2015 n°[[http://cada.data.gouv.fr/20144578/][20144578]]).
-
-Pour qu'un code source soit communicable :
-
-- il doit être achevé : dès lors qu'une version du code est utilisée
-  en production, cette version est considérée comme achevée.
-- sa communication ne doit pas porter atteinte :
-  - au secret commercial et industriel ;
-  - à la sûreté de l'État, à la sécurité publique, à la sécurité des
-    personnes ou à la sûreté des systèmes d'information des
-    administrations ;
-  - à la recherche et à la prévention, par les services compétents,
-    d'infractions de toute nature.
-- l'obligation de communicabilité porte sur les collectivités de plus
-  de 3500 habitants et les organismes publics de plus de 50 agents.
-
-En dehors de ces limites, toute personne ou toute administration peut
-demander la communication d'un code source.
-
-La liste des licences sous lesquelles un code source peut être placé
-au moment de sa diffusion est [[https://www.data.gouv.fr/fr/licences][accessible ici]].
-
-* Les niveaux d'ouverture
+Nous proposons de distinguer les quatre degrés d'ouverture suivants :
 
 - 📘 Niveau A - *contributif* :: Le code source est publié, les
   contributions extérieures sont activement recherchées et traitées.
@@ -79,15 +46,66 @@ au moment de sa diffusion est [[https://www.data.gouv.fr/fr/licences][accessible
 
 - 📕 Niveau D - *fermé* :: Le code source n'est pas publié.
 
-* Maintenance et contributions
+* Quels logiciels ouvrir à quel degré ?
+
+Tous les logiciels développés par un organisme public n'ont pas
+vocation à être ouvert au même degré.
+
+Nous proposons deux critères :
+
+1. Le logiciel est-il *un module utile à d'autres logiciels libres* (ou
+   un logiciel « monolithique » sans utilité pour d'autres logiciels
+   libres) ?
+
+2. Le logiciel répond-il a un *besoin générique* (ou à un besoin
+   spécifique à l'organisme qui le produit) ?
+
+Le niveau A est recommandé pour les logiciels répondant à ces deux
+critères ; le niveau B est recommandé pour ceux répondant seulement au
+critère de généricité ; le niveau C pour ceux ne répondant qu'au
+critère de modularité.
+
+Pour les logiciels ne répondant à aucun des deux critères, le niveau D
+est admissible, tant qu'aucun citoyen n'exige la communication du code
+source en question, selon le cadre juridique définit dans la loi pour
+République numérique.
+
+Bien sûr, ces critères sont /grossiers/ et /relatifs/  : la modularité et
+la généricité ne s'évaluent pas dans l'absolu.  Mais ces deux notions
+aident à *prioriser les ouvertures logicielles*.  Le but est de savoir
+où mettre de l'énergie pour augmenter les contributions reçues et
+données.
+
+* Exemples de mise en oeuvre
+
+- Une collectivité territoriale développe un outil de correction
+  grammaticale pour LibreOffice.  Ce logiciel est un module d'un
+  logiciel libre existant et il répond à un besoin générique : il est
+  pertinent d'en faire un *logiciel libre « contributif »* (niveau A).
+
+- Une administration développe un outil pour organiser la collecte de
+  données sur le web (/scraping/).  C'est un outil web « monolithique_»
+  mais qui répond à un besoin rencontré hors de l'administration : il
+  peut être publié comme *logiciel libre « ouvert »* (niveau B).
+
+- Une administration centrale développe un thème pour les sites
+  qu'elle publie à l'aide de Jekyll.  Ce thème est un module d'un
+  logiciel libre existant mais il répond à un besoin spécifique de
+  l'organisme public : son code source peut être publié, mais sans
+  recherche active de contributeurs ni maintenance particulière à
+  l'égard des contributions extérieures (niveau C).
+
+Chaque organisme peut tenter de prioriser les logiciels à ouvrir
+en fonction de ces critères.
+
+* Maintenance de ce document et contributions
 
 Ce document est maintenu par Bastien Guerry à Etalab.
 
-Vous pouvez contribuer en proposant une /pull request/ ou en [[https://github.com/etalab/opendata-logiciels/issues/new][ouvrant une
-issue]].
+Pour toute question, vous pouvez écrire à =opensource@data.gouv.fr=.
 
-Pour toute question relative à l'ouverture des codes sources dans
-votre administration, n'hésitez pas à écrire à =opensource@data.gouv.fr=
+Vous pouvez aussi contribuer avec des suggestions en [[https://github.com/etalab/opendata-logiciels/issues/new][ouvrant une issue]]
+ou en proposant une /pull request/.
 
 * Licence
 
@@ -96,7 +114,6 @@ d'information et de communication de l'État.
 
 2018-2019 Les contributeurs accessibles via l'historique du dépôt.
 
-Les contenus accessibles dans ce dépôt sont placés sous
-[[file:LO.md][Licence Ouverte 2.0]].  Vous êtes libre de réutiliser
-les contenus de ce dépôt sous les conditions précisées dans cette
-licence.
+Les contenus accessibles dans ce dépôt sont placés sous [[file:LO.md][Licence
+Ouverte 2.0]].  Vous êtes libre de réutiliser les contenus de ce dépôt
+sous les conditions précisées dans cette licence.

@@ -1,0 +1,29 @@
+#+title: La communicabilité des codes sources
+
+Toute entité chargée d'une mission de service public doit publier tout
+document produit ou reçu dans le cadre de cette mission, quelle qu'en
+soit la date, le lieu de conservation et le support.  Les codes
+sources, en tant que documents administratifs, relèvent de cette
+obligation (voir l'avis CADA du 8 janvier 2015 n°[[http://cada.data.gouv.fr/20144578/][20144578]]).
+
+* Pour qu'un code source soit communicable
+
+- Il doit être achevé : dès lors qu'une version du code est utilisée
+  en production, cette version est considérée comme achevée.
+- Sa communication ne doit pas porter atteinte :
+  - au secret commercial et industriel ;
+  - à la sûreté de l'État, à la sécurité publique, à la sécurité des
+    personnes ou à la sûreté des systèmes d'information des
+    administrations ;
+  - à la recherche et à la prévention, par les services compétents,
+    d'infractions de toute nature.
+- l'obligation de communicabilité porte sur les collectivités de plus
+  de 3500 habitants et les organismes publics de plus de 50 agents.
+
+En dehors de ces limites, toute personne ou toute administration peut
+demander la communication d'un code source.
+
+* Licences applicables à la publication d'un code source
+
+La liste des licences sous lesquelles un code source peut être placé
+au moment de sa diffusion est [[https://www.data.gouv.fr/fr/licences][accessible ici]].
