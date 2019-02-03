@@ -1,4 +1,4 @@
-#+title: Open data logiciels : guide sur l'ouverture
+#+title: Open data logiciels : prioriser les ouvertures
 
 * À qui s'adresse ce guide ?
 
