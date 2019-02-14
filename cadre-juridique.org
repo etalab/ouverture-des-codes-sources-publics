@@ -6,6 +6,12 @@ soit la date, le lieu de conservation et le support.  Les codes
 sources, en tant que documents administratifs, relèvent de cette
 obligation (voir l'avis CADA du 8 janvier 2015 n°[[http://cada.data.gouv.fr/20144578/][20144578]]).
 
+Les codes sources concernés sont, au même titre que n'importe quelle
+autre donnée administrative publiable en open data, celles « dont la
+publication présente un intérêt économique, social, sanitaire ou
+environnemental. » (Article 46, II, 4 de la [[https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14][loi pour une République
+numérique]].)
+
 * Pour qu'un code source soit communicable
 
 - Il doit être achevé : dès lors qu'une version du code est utilisée
