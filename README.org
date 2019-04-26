@@ -1,4 +1,4 @@
-#+title: Open data logiciels : prioriser les ouvertures
+#+title: Open data logiciels : prioriser les ouvertures et bien communiquer
 
 * À qui s'adresse ce guide ?
 
@@ -75,6 +75,79 @@ la généricité ne s'évaluent pas dans l'absolu.  Mais ces deux notions
 aident à *prioriser les ouvertures logicielles*.  Le but est de savoir
 où mettre de l'énergie pour augmenter les contributions reçues et
 données.
+
+* Comment bien communiquer sur un logiciel libre ?
+
+Voici quelques recommandations lorsqu'une administration communique
+sur la mise à disposition d'un logiciel libre.
+
+** Mettre un lien vers le site web du projet
+
+ Les projets libres ont souvent une page web dédiée.  C'est le point
+ d'entrée pour les utilisateurs et les contributeurs potentiels.  À
+ défaut d'un site web, la page de =README.md= du logiciel suffira.
+
+** Dire où trouver les dépôts de code source
+
+ Lorsqu'on annonce un logiciel libre, le premier réflexe d'un
+ développeur sera d'aller voir le code source : pour comprendre le
+ problème que le logiciel aide à résoudre, pour connaître la licence
+ et les conditions de contribution au logiciel.
+
+** Indiquer qui contribue déjà au code source
+
+ Lorsqu'une administration publie du code source libre, elle a
+ peut-être développé le code elle-même, ou bien l'a financé.  Elle a
+ peut-être reçu de l'aide d'autres agents publics ou de citoyens.
+ Savoir qui est en charge de la gouvernance du projet et qui sont les
+ auteurs est une information importante.
+
+** Indiquer si des contributions sont attendues
+
+ En général, on ouvre le code source d'un logiciel parce qu'on espère
+ des contributions extérieures.  Ce n'est pas systématiquement le cas
+ pour un organisme public, qui peut simplement souhaiter rendre son
+ code source public, sans vouloir gérer des contributions.  Dans les
+ deux cas, il est important d'anticiper les attentes en étant très
+ explicite à ce sujet.
+
+** Prévenir les équipes qui développent le logiciel
+
+ Dès qu'on annonce un logiciel libre, il faut s'attendre à ce qu'il
+ soit testé et à ce que des questions soient posés ou des retours de
+ bugs envoyés.   Le mieux est de prévenir les équipes qui développent
+ le logiciel pour que celles-ci puissent se montrer réactives.  La
+ première impression qu'on donne à la communauté des utilisateurs et
+ des contributeurs potentiels est importante.
+
+** Rappeler pourquoi le code source est libre
+
+ Une administration peut avoir plusieurs raisons de publier le code
+ source des logiciels qu'elle développe ou fait développer.
+
+ En général, on peut se référer à l'un des trois piliers évoqués par
+ la loi pour une République numérique pour la gestion des systèmes
+ d'information : maîtrise, pérennité, indépendance.
+
+** Montrer comment le logiciel dépend d'un écosystème 
+
+ Les logiciels libres sont souvent construits à partir d'autres
+ logiciels libres et peuvent parfois servir de briques pour d'autres
+ solutions.  C'est important d'en avoir conscience en communiquant sur
+ le logiciel, car une critique émise (ou un retour de bug) pourra en
+ fait porter sur un logiciel qui n'est pas développé par l'équipe.
+
+** Si le logiciel est sensible question sécurité, dire ce qui a été fait et va être fait
+
+ Pour la communication autour de forts enjeux liés à leur sécurité,
+ il est important de souligner ce point dans la communication, en
+ indiquant ce qui a été fait et ce qui sera fait.
+
+ Par exemple, si le logiciel a fait l'objet d'un audit de sécurité par
+ l'ANSSI ou si le logiciel a déjà été testé auprès d'agents qui s'y
+ connaissent bien en sécurité, dire quand et quels ont été les
+ résultats.  Si une opération de "bug bounty" (chasse aux bugs) est
+ prévue, dire quand et quelles sont les attentes.
 
 * Exemples de mise en oeuvre
 
