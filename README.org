@@ -3,7 +3,7 @@
 * À qui s'adresse ce guide ?
 
 Ce guide s'adresse aux organismes publics, et plus particulièrement
-aux personnes chargés de l'ouverture des codes sources logiciels dans
+aux personnes chargées de l'ouverture des codes sources logiciels dans
 ces organismes.
 
 * À quoi sert-il ?
@@ -21,7 +21,10 @@ publier du code source et contribuer à des logiciels libres, mais elle
 n'aide pas les organismes publics à répondre à la question « Quels
 logiciels ouvrir en priorité ? »
 
-*Ce guide a pour vocation de répondre à la question : « Quels logiciels ouvrir en priorité ? »*
+Ce guide a pour vocation de répondre aux questions : 
+
+- Quels logiciels ouvrir en priorité ?
+- Comment bien communiquer autour de la publication d'un logiciel libre ?
 
 * Prérequis et compléments
 
@@ -175,7 +178,8 @@ en fonction de ces critères.
 
 Ce document est maintenu par Bastien Guerry à Etalab.
 
-Pour toute question, vous pouvez écrire à =opensource@data.gouv.fr=.
+Pour toute question, vous pouvez écrire à =opensource@data.gouv.fr= ou
+directement à =bastien.guerry@data.gouv.fr=.
 
 Vous pouvez aussi contribuer avec des suggestions en [[https://github.com/etalab/opendata-logiciels/issues/new][ouvrant une issue]]
 ou en proposant une /pull request/.
