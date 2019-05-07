@@ -79,6 +79,56 @@ aident à *prioriser les ouvertures logicielles*.  Le but est de savoir
 où mettre de l'énergie pour augmenter les contributions reçues et
 données.
 
+** Exemples de mise en oeuvre
+
+ - Une collectivité territoriale développe un outil de correction
+   grammaticale pour LibreOffice.  Ce logiciel est un module d'un
+   logiciel libre existant et il répond à un besoin générique : il est
+   pertinent d'en faire un *logiciel libre « contributif »* (niveau A).
+
+ - Une administration développe un outil pour organiser la collecte de
+   données sur le web (/scraping/).  C'est un outil web « monolithique_»
+   mais qui répond à un besoin rencontré hors de l'administration : il
+   peut être publié comme *logiciel libre « ouvert »* (niveau B).
+
+ - Une administration centrale développe un thème pour les sites
+   qu'elle publie à l'aide de Jekyll.  Ce thème est un module d'un
+   logiciel libre existant mais il répond à un besoin spécifique de
+   l'organisme public : son code source peut être publié, mais sans
+   recherche active de contributeurs ni maintenance particulière à
+   l'égard des contributions extérieures (niveau C).
+
+ Chaque organisme peut tenter de prioriser les logiciels à ouvrir
+ en fonction de ces critères.
+
+* Comment encourager les contributions (niveau A) ?
+
+Lorsque vous souhaitez encourager les contributions sur les logiciels
+libres que vous publiez, quelles bonnes pratiques mettre en oeuvre ?
+Ci-dessous une liste non-exhaustives d'idées :
+
+- Ajoutez ces sections dans votre =README=:
+  - *Auteur* : qui est l'auteur ?  Comment le contacter ?
+  - *Licence* : quelle est la licence ?  Avec un lien vers votre fichier
+    =LICENSE.md= dans le dépôt.
+  - *Contributions* : souhaitez-vous des contributions ?  Si oui, sur
+    quels aspects de votre projet ?  En fonction des profils de
+    contributeurs, par où peuvent-ils commencer ?  Éventuellement,
+    vous pouvez préciser ici quelle est la /gouvernance/ du projet (qui
+    décide et comment).
+
+- Utiliser des mots-clefs pour votre dépôt :
+  - [[https://github.com/topics/good-first-issue][good-first-issue]]
+  - [[https://github.com/topics/beginner-friendly][beginner-friendly]]
+
+- Utiliser des mots-clefs pour vos issues :
+  - [[https://github.com/topics/good-first-issue][good-first-issue]]
+  - [[https://github.com/search?q=label%3Afirst-timers-only&state=open&type=Issues][first-timers-only]]
+
+Vous trouverez d'autres conseils sur [[https://www.firsttimersonly.com][www.firsttimersonly.com]].
+
+Dans tous les cas : *expérimentez* et *communiquez* !
+
 * Comment bien communiquer sur un logiciel libre ?
 
 Voici quelques recommandations lorsqu'une administration communique
@@ -151,28 +201,6 @@ sur la mise à disposition d'un logiciel libre.
  connaissent bien en sécurité, dire quand et quels ont été les
  résultats.  Si une opération de "bug bounty" (chasse aux bugs) est
  prévue, dire quand et quelles sont les attentes.
-
-* Exemples de mise en oeuvre
-
-- Une collectivité territoriale développe un outil de correction
-  grammaticale pour LibreOffice.  Ce logiciel est un module d'un
-  logiciel libre existant et il répond à un besoin générique : il est
-  pertinent d'en faire un *logiciel libre « contributif »* (niveau A).
-
-- Une administration développe un outil pour organiser la collecte de
-  données sur le web (/scraping/).  C'est un outil web « monolithique_»
-  mais qui répond à un besoin rencontré hors de l'administration : il
-  peut être publié comme *logiciel libre « ouvert »* (niveau B).
-
-- Une administration centrale développe un thème pour les sites
-  qu'elle publie à l'aide de Jekyll.  Ce thème est un module d'un
-  logiciel libre existant mais il répond à un besoin spécifique de
-  l'organisme public : son code source peut être publié, mais sans
-  recherche active de contributeurs ni maintenance particulière à
-  l'égard des contributions extérieures (niveau C).
-
-Chaque organisme peut tenter de prioriser les logiciels à ouvrir
-en fonction de ces critères.
 
 * Maintenance de ce document et contributions
 
