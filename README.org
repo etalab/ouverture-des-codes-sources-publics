@@ -52,7 +52,7 @@ Nous proposons de distinguer les quatre degrés d'ouverture suivants :
 * Quels logiciels ouvrir à quel degré ?
 
 Tous les logiciels développés par un organisme public n'ont pas
-vocation à être ouvert au même degré.
+vocation à être ouverts au même degré.
 
 Nous proposons deux critères :
 
