@@ -223,6 +223,11 @@ l'ouverture des codes sources de l'administration.
 Cette section décrit les étapes pour l'ouverture d'un logiciel déjà
 utilisé par l'administration.
 
+* TODO Exemples d'utilisation des licences libres dans l'administration
+
+Cette section explique, pour chaque [[https://www.data.gouv.fr/fr/licences][licence homologuée]], pourquoi cette
+licence a été choisie pour un projet de l'administration.
+
 * Maintenance de ce document et contributions
 
 Ce document est maintenu par Bastien Guerry à Etalab.
