@@ -213,6 +213,11 @@ sur la mise à disposition d'un logiciel libre.
  résultats.  Si une opération de "bug bounty" (chasse aux bugs) est
  prévue, dire quand et quelles sont les attentes.
 
+* TODO Focus : l'ouverture de code dans le cadre des projets de datascience
+
+Cette section décrit les codes sources et les données susceptibles
+d'être publiés dans le cas des projets de datascience.
+
 * TODO Comment Etalab peut vous accompagner ?
 
 Cette section décrit l'offre d'accompagnement d'Etalab pour
