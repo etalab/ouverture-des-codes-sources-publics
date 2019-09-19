@@ -1,4 +1,4 @@
-#+title: Open data logiciels : prioriser les ouvertures et bien communiquer
+#+title: Guide d'ouverture des codes sources publics : guide pratique
 
 * À qui s'adresse ce guide ?
 
