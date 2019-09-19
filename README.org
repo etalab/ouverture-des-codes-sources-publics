@@ -36,9 +36,7 @@ aux logiciels libres de l’État]] et du [[cadre-juridique.org][cadre juridique
 s'applique la communicabilité des codes sources logiciels produits par
 des organismes publics.
 
-
-
-* Quels degrés d'ouverture pour les codes sources ?
+* Clarifier : quels degrés d'ouverture pour les codes sources ?
 
 Nous proposons de distinguer les quatre degrés d'ouverture suivants :
 
@@ -51,9 +49,10 @@ Nous proposons de distinguer les quatre degrés d'ouverture suivants :
 - 📙 Niveau C - *publié* :: Le code source est publié mais les
   contributions extérieures ne sont pas traitées.
 
-- 📕 Niveau D - *fermé* :: Le code source n'est pas publié.
+- 📕 Niveau D - non-communicable :: Le code source n'est pas
+  communicable au public.
 
-* Quels logiciels ouvrir à quel degré ?
+* Prioriser : quels logiciels ouvrir à quel degré ?
 
 Tous les logiciels développés par un organisme public n'ont pas
 vocation à être ouverts au même degré.  
