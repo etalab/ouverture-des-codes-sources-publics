@@ -34,15 +34,15 @@ Ce guide a pour vocation de répondre aux questions :
 - Quels logiciels ouvrir en priorité ?
 - Comment bien communiquer autour de la publication d'un logiciel libre ?
 
-* TODO Définir : que recouvre la notion de « code source » ?
+* TODO Définir : que recouvre la notion de « code source » ?
 
 Cette section décrit ce qu'il faut entendre par « code source » d'un logiciel.
 
-* Clarifier : quels degrés d'ouverture pour les codes sources ?
+* Clarifier : quels degrés d'ouverture pour les codes sources ?
 
 Nous proposons de distinguer les quatre degrés d'ouverture suivants :
 
-- 📘 Niveau A - *contributif* :: Le code source est publié, les
+- 📘 Niveau A - *contributif* :: Le code source est publié, les
   contributions extérieures sont activement recherchées et traitées.
 
 - 📗 Niveau B - *ouvert* :: Le code source est publié, les contributions
@@ -112,7 +112,7 @@ la posture de l'administration dans le cas des publications simples.
  Chaque organisme peut tenter de prioriser les logiciels à ouvrir
  en fonction de ces critères.
 
-* Comment encourager les contributions (niveau A) ?
+* Ouvrir : comment encourager les contributions ?
 
 Lorsque vous souhaitez encourager les contributions sur les logiciels
 libres que vous publiez, quelles bonnes pratiques mettre en oeuvre ?
@@ -212,6 +212,11 @@ sur la mise à disposition d'un logiciel libre.
  connaissent bien en sécurité, dire quand et quels ont été les
  résultats.  Si une opération de "bug bounty" (chasse aux bugs) est
  prévue, dire quand et quelles sont les attentes.
+
+* TODO Comment Etalab peut vous accompagner ?
+
+Cette section décrit l'offre d'accompagnement d'Etalab pour
+l'ouverture des codes sources de l'administration.
 
 * TODO Les étapes pour ouvrir un logiciel déjà en production
 
