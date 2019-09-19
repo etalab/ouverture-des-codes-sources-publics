@@ -56,9 +56,9 @@ Nous proposons de distinguer les quatre degrés d'ouverture suivants :
 * Quels logiciels ouvrir à quel degré ?
 
 Tous les logiciels développés par un organisme public n'ont pas
-vocation à être ouverts au même degré.
+vocation à être ouverts au même degré.  
 
-Nous proposons deux critères :
+Nous proposons trois critères :
 
 1. Le logiciel est-il *un module utile à d'autres logiciels libres* (ou
    un logiciel « monolithique » sans utilité pour d'autres logiciels
@@ -67,21 +67,27 @@ Nous proposons deux critères :
 2. Le logiciel répond-il a un *besoin générique* (ou à un besoin
    spécifique à l'organisme qui le produit) ?
 
-Le niveau A est recommandé pour les logiciels répondant à ces deux
-critères ; le niveau B est recommandé pour ceux répondant seulement au
-critère de généricité ; le niveau C pour ceux ne répondant qu'au
-critère de modularité.
+3. L'*utilisateur final* du logiciel a-t-il un profil technique
+   (développeur, datascientiste ou designer) ?
 
-Pour les logiciels ne répondant à aucun des deux critères, le niveau D
-est admissible, tant qu'aucun citoyen n'exige la communication du code
-source en question, selon le cadre juridique définit dans la loi pour
-République numérique.
+*Le niveau A* est recommandé pour les logiciels répondant à au moins
+deux critères ; le niveau B est recommandé pour ceux répondant à au
+moins un critère ; le niveau C pour ceux ne répondant à aucun de ces
+trois critères (par ex. un logiciel métier très spécifique, dont
+aucune partie ne peut être réutilisée ailleurs et dont les
+utilisateurs ne sont pas du tout des contributeurs potentiels.)
 
-Bien sûr, ces critères sont /grossiers/ et /relatifs/  : la modularité et
-la généricité ne s'évaluent pas dans l'absolu.  Mais ces deux notions
-aident à *prioriser les ouvertures logicielles*.  Le but est de savoir
-où mettre de l'énergie pour augmenter les contributions reçues et
-données.
+Pour les logiciels ne répondant à aucun des trois critères, le niveau
+D est admissible, tant qu'aucun citoyen n'exige la communication du
+code source en question, selon le cadre juridique définit dans la loi
+pour République numérique.
+
+Bien sûr, ces critères sont /relatifs/: la modularité, la généricité et
+le potentiel de contribution des utilisateurs ne s'évaluent pas dans
+l'absolu.  Ces notions aident seulement à *prioriser les ouvertures
+logicielles*.  Le but est de *canaliser son énergie* sur les logiciels
+qui ont un bon potentiel contributif et *de communiquer clairement* sur
+la posture de l'administration dans le cas des publications simples.
 
 ** Exemples de mise en oeuvre
 
