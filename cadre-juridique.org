@@ -17,8 +17,18 @@ relations entre le public et les administrations, ainsi que l'article
 
 * Pour qu'un code source soit communicable
 
-- Il doit être achevé : dès lors qu'une version du code est utilisée
-  en production, cette version est considérée comme achevée.
+- L'obligation de communicabilité porte sur les collectivités de plus
+  de 3500 habitants et les organismes publics de plus de 50 agents.
+
+- L'organisme public ouvrant le code source doit en avoir la propriété
+  intellectuelle.
+
+- Le code source doit être « achevé » : dès lors qu'une version du
+  code est mise en oeuvre dans l'administration, cette version est
+  considérée comme « achevée ».  Notamment une version dite bêta ou
+  inférieure à 1.0, si elle est effectivement utilisée, est bien
+  achevée et communicable.
+
 - Sa communication ne doit pas porter atteinte :
   - au secret commercial et industriel ;
   - à la sûreté de l'État, à la sécurité publique, à la sécurité des
@@ -26,8 +36,6 @@ relations entre le public et les administrations, ainsi que l'article
     administrations ;
   - à la recherche et à la prévention, par les services compétents,
     d'infractions de toute nature.
-- L'obligation de communicabilité porte sur les collectivités de plus
-  de 3500 habitants et les organismes publics de plus de 50 agents.
 
 En dehors de ces limites, toute personne ou toute administration peut
 demander la communication d'un code source.
