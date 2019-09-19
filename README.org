@@ -8,6 +8,12 @@ ces organismes.  Accessoirement, il intéressera les prestataires à qui
 les organismes publics demandent d'aider à l'ouverture des codes
 sources qu'ils livrent dans le cadre d'un marché public.
 
+Ce guide suppose que vous avez bien compris ce que [[file:hors-scope.org][ce document n'est
+pas]], que vous avez pris connaissance de la [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][politique de contribution
+aux logiciels libres de l’État]] et du [[cadre-juridique.org][cadre juridique]] dans lequel
+s'applique la communicabilité des codes sources logiciels produits par
+des organismes publics.
+
 * À quoi sert-il ?
 
 Ce guide sert à aider les organismes publics à définir une politique
@@ -23,18 +29,14 @@ publier du code source et contribuer à des logiciels libres, mais elle
 n'aide pas les organismes publics à répondre à la question « Quels
 logiciels ouvrir en priorité ? »
 
-Ce guide a pour vocation de répondre aux questions : 
+Ce guide a pour vocation de répondre aux questions :
 
 - Quels logiciels ouvrir en priorité ?
 - Comment bien communiquer autour de la publication d'un logiciel libre ?
 
-* Prérequis et compléments
+* TODO Définir : que recouvre la notion de « code source » ?
 
-Ce guide suppose que vous avez bien compris ce que [[file:hors-scope.org][ce document n'est
-pas]], que vous avez pris connaissance de la [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][politique de contribution
-aux logiciels libres de l’État]] et du [[cadre-juridique.org][cadre juridique]] dans lequel
-s'applique la communicabilité des codes sources logiciels produits par
-des organismes publics.
+Cette section décrit ce qu'il faut entendre par « code source » d'un logiciel.
 
 * Clarifier : quels degrés d'ouverture pour les codes sources ?
 
