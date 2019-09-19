@@ -4,7 +4,9 @@
 
 Ce guide s'adresse aux organismes publics, et plus particulièrement
 aux personnes chargées de l'ouverture des codes sources logiciels dans
-ces organismes.
+ces organismes.  Accessoirement, il intéressera les prestataires à qui
+les organismes publics demandent d'aider à l'ouverture des codes
+sources qu'ils livrent dans le cadre d'un marché public.
 
 * À quoi sert-il ?
 
