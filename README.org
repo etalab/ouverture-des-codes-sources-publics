@@ -36,6 +36,8 @@ aux logiciels libres de l’État]] et du [[cadre-juridique.org][cadre juridique
 s'applique la communicabilité des codes sources logiciels produits par
 des organismes publics.
 
+
+
 * Quels degrés d'ouverture pour les codes sources ?
 
 Nous proposons de distinguer les quatre degrés d'ouverture suivants :
@@ -203,6 +205,11 @@ sur la mise à disposition d'un logiciel libre.
  connaissent bien en sécurité, dire quand et quels ont été les
  résultats.  Si une opération de "bug bounty" (chasse aux bugs) est
  prévue, dire quand et quelles sont les attentes.
+
+* TODO Les étapes pour ouvrir un logiciel déjà en production
+
+Cette section décrit les étapes pour l'ouverture d'un logiciel déjà
+utilisé par l'administration.
 
 * Maintenance de ce document et contributions
 
