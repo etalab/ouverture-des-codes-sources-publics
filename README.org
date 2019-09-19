@@ -140,7 +140,7 @@ Vous trouverez d'autres conseils sur [[https://www.firsttimersonly.com][www.firs
 
 Dans tous les cas : *expérimentez* et *communiquez* !
 
-* Comment bien communiquer sur un logiciel libre ?
+* Communiquer : comment annoncer une ouverture de code source ?
 
 Voici quelques recommandations lorsqu'une administration communique
 sur la mise à disposition d'un logiciel libre.
