@@ -44,3 +44,10 @@ demander la communication d'un code source.
 
 La liste des licences sous lesquelles un code source peut être placé
 au moment de sa diffusion est [[https://www.data.gouv.fr/fr/licences][accessible ici]].
+
+* Guide juridique interactif
+
+Pour savoir si le code source d'un logiciel développé et utilisé par
+votre organisme public est communicable, nous vous invitons à tester
+ce [[https://guide-juridique-logiciel-libre.etalab.gouv.fr/][guide juridique interactif]].
+
