@@ -1,5 +1,8 @@
 #+title: Guide d'ouverture des codes sources publics : guide pratique
 
+Ce dépôt est archivé.  L'essentiel est repris sur [[https://github.com/etalab/guides.etalab.gouv.fr][ce dépôt]] sur lequel
+vous pouvez proposer des contributions.
+
 * À qui s'adresse ce guide ?
 
 Ce guide s'adresse aux organismes publics, et plus particulièrement
