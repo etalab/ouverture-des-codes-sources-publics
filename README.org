@@ -8,9 +8,9 @@ ces organismes.  Accessoirement, il intéressera les prestataires à qui
 les organismes publics demandent d'aider à l'ouverture des codes
 sources qu'ils livrent dans le cadre d'un marché public.
 
-Ce guide suppose que vous avez bien compris ce que [[file:hors-scope.org][ce document n'est
-pas]], que vous avez pris connaissance de la [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][politique de contribution
-aux logiciels libres de l’État]] et du [[cadre-juridique.org][cadre juridique]] dans lequel
+Ce guide suppose que vous avez bien compris ce que ce document n'est
+pas, que vous avez pris connaissance de la [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][politique de contribution
+aux logiciels libres de l’État]] et du cadre juridique dans lequel
 s'applique la communicabilité des codes sources logiciels produits par
 des organismes publics.
 
@@ -23,8 +23,7 @@ octobre 2016.
 
 Il vient en complément de la Politique de contribution aux logiciels
 libres de l’État, [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][publiée]] en mai 2018, laquelle est doublement
-limitée: (1) elle ne s'adresse pas aux collectivités territoriales ;
-(2) elle acte le principe selon lequel les agents publics peuvent
+limitée: (1) elle ne s'adresse pas aux collectivités territoriales ; (2) elle acte le principe selon lequel les agents publics peuvent
 publier du code source et contribuer à des logiciels libres, mais elle
 n'aide pas les organismes publics à répondre à la question « Quels
 logiciels ouvrir en priorité ? »
@@ -34,7 +33,7 @@ Ce guide a pour vocation de répondre aux questions :
 - Quels logiciels ouvrir en priorité ?
 - Comment bien communiquer autour de la publication d'un logiciel libre ?
 
-* TODO Définir : que recouvre la notion de « code source » ?
+* TODO COMMENT Définir : que recouvre la notion de « code source » ?
 
 Cette section décrit ce qu'il faut entendre par « code source » d'un logiciel.
 
@@ -213,22 +212,22 @@ sur la mise à disposition d'un logiciel libre.
  résultats.  Si une opération de "bug bounty" (chasse aux bugs) est
  prévue, dire quand et quelles sont les attentes.
 
-* TODO Focus : l'ouverture de code dans le cadre des projets de datascience
+* TODO COMMENT Focus : l'ouverture de code dans le cadre des projets de datascience
 
 Cette section décrit les codes sources et les données susceptibles
 d'être publiés dans le cas des projets de datascience.
 
-* TODO Comment Etalab peut vous accompagner ?
+* TODO COMMENT Comment Etalab peut vous accompagner ?
 
 Cette section décrit l'offre d'accompagnement d'Etalab pour
 l'ouverture des codes sources de l'administration.
 
-* TODO Les étapes pour ouvrir un logiciel déjà en production
+* TODO COMMENT Les étapes pour ouvrir un logiciel déjà en production
 
 Cette section décrit les étapes pour l'ouverture d'un logiciel déjà
 utilisé par l'administration.
 
-* TODO Exemples d'utilisation des licences libres dans l'administration
+* TODO COMMENT Exemples d'utilisation des licences libres dans l'administration
 
 Cette section explique, pour chaque [[https://www.data.gouv.fr/fr/licences][licence homologuée]], pourquoi cette
 licence a été choisie pour un projet de l'administration.
